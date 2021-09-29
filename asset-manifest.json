@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/InSpeed/static/css/main.3e7ee368.chunk.css",
-    "main.js": "/InSpeed/static/js/main.6c0fb8a8.chunk.js",
-    "main.js.map": "/InSpeed/static/js/main.6c0fb8a8.chunk.js.map",
+    "main.js": "/InSpeed/static/js/main.79f0b28f.chunk.js",
+    "main.js.map": "/InSpeed/static/js/main.79f0b28f.chunk.js.map",
     "runtime-main.js": "/InSpeed/static/js/runtime-main.25bd6ce1.js",
     "runtime-main.js.map": "/InSpeed/static/js/runtime-main.25bd6ce1.js.map",
     "static/js/2.7ef468f0.chunk.js": "/InSpeed/static/js/2.7ef468f0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.25bd6ce1.js",
     "static/js/2.7ef468f0.chunk.js",
     "static/css/main.3e7ee368.chunk.css",
-    "static/js/main.6c0fb8a8.chunk.js"
+    "static/js/main.79f0b28f.chunk.js"
   ]
 }
