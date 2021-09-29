@@ -1,3 +1,17 @@
+
+# InSpeed
+This Project is developed using React. This application is used to check typing speed after getting the result we can share it in facebook and twitter
+
+# Project Link
+https://priyanka-sati.github.io/InSpeed/
+
+# Libraries used
+https://www.npmjs.com/package/typewriter-effect
+https://michalsnik.github.io/aos/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
