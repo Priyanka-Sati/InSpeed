@@ -1,6 +1,6 @@
 
 # InSpeed
-This Project is developed using React. This application is used to check typing speed after getting the result we can share it in facebook and twitter
+This application is developed using React. It is used to check typing speed after getting the result we can share it in facebook and twitter
 
 # Project Link
 https://priyanka-sati.github.io/InSpeed/
